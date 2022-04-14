@@ -4,9 +4,8 @@ body {
   }
 
   .jumbotron {
-    background-image: url("/Users/yycheung/Analysis project/UFOs/static/images/nasa.jpg");
+    background-image: url("/Users/yycheung/Analysis project/UFOs/static/images/nasa.png");
     background-size: 100% 100%;
     text-align: center;
-    color: #1b201e;
     font-family:Arial;
   };
